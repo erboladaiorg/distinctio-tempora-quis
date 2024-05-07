@@ -1,13 +1,13 @@
 {
   "name": "@erboladaiorg/distinctio-tempora-quis",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {},
   "author": "erboladai",
   "license": "MIT",
   "dependencies": {
-    "@dramaorg/esse-praesentium-eligendi": "^1.0.4",
+    "@dramaorg/esse-praesentium-eligendi": "^1.1.4",
     "@erboladaiorg/autem-dolores-ipsam": "^1.0.0",
     "@erboladaiorg/sit-nesciunt-amet": "^1.0.0",
     "@erboladaiorg/velit-fugit-harum": "^1.0.0",
